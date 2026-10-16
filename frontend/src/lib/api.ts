@@ -1,5 +1,5 @@
 import type { ChatReply, DestinationLite, Meta, Plan, Prefs, RecResult, SavedTrip, Stay, TransportOption, ChangeSummary } from "./types";
-
+const API_BASE = (import.meta.env.VITE_API_URL || "").replace(/\/$/, "");
 export class ApiError extends Error {
   status: number;
   constructor(message: string, status: number) { super(message); this.status = status; }
@@ -8,7 +8,7 @@ export class ApiError extends Error {
 async function req<T>(path: string, init?: RequestInit): Promise<T> {
   let res: Response;
   try {
-    res = await fetch(`/api${path}`, { headers: { "Content-Type": "application/json" }, ...init });
+    res = await fetch(`${API_BASE}/api${path}`, { headers: { "Content-Type": "application/json" }, ...init });
   } catch {
     throw new ApiError("Cannot reach the TripWise server. Is the backend running on port 8000?", 0);
   }
