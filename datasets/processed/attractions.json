@@ -1,0 +1,1830 @@
+[
+ {
+  "id": "ooty-000",
+  "destination_id": "ooty",
+  "name": "Government Botanical Gardens",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 11.4189,
+  "lon": 76.711,
+  "duration_min": 90,
+  "fee_inr": 30,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Terraced gardens with exotic trees and seasonal flower displays."
+ },
+ {
+  "id": "ooty-001",
+  "destination_id": "ooty",
+  "name": "Ooty Lake",
+  "tags": [
+   "nature",
+   "relaxation",
+   "photography"
+  ],
+  "lat": 11.402,
+  "lon": 76.687,
+  "duration_min": 75,
+  "fee_inr": 20,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Artificial lake with boating and a lakeside promenade."
+ },
+ {
+  "id": "ooty-002",
+  "destination_id": "ooty",
+  "name": "Doddabetta Peak",
+  "tags": [
+   "mountains",
+   "photography",
+   "nature"
+  ],
+  "lat": 11.4003,
+  "lon": 76.7375,
+  "duration_min": 75,
+  "fee_inr": 10,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Highest point in the Nilgiris with panoramic viewpoint."
+ },
+ {
+  "id": "ooty-003",
+  "destination_id": "ooty",
+  "name": "Nilgiri Mountain Railway ride",
+  "tags": [
+   "culture",
+   "historical",
+   "photography"
+  ],
+  "lat": 11.4118,
+  "lon": 76.7,
+  "duration_min": 180,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Heritage rack-railway journey between Ooty and Coonoor."
+ },
+ {
+  "id": "ooty-004",
+  "destination_id": "ooty",
+  "name": "Rose Garden",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 11.4107,
+  "lon": 76.7073,
+  "duration_min": 60,
+  "fee_inr": 30,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Large terraced rose garden with many cultivars."
+ },
+ {
+  "id": "ooty-005",
+  "destination_id": "ooty",
+  "name": "Tea Factory and Museum",
+  "tags": [
+   "culture",
+   "food",
+   "nature"
+  ],
+  "lat": 11.401,
+  "lon": 76.73,
+  "duration_min": 60,
+  "fee_inr": 20,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Walkthrough of tea processing with tasting."
+ },
+ {
+  "id": "ooty-006",
+  "destination_id": "ooty",
+  "name": "Pykara Lake and Falls",
+  "tags": [
+   "nature",
+   "adventure",
+   "photography"
+  ],
+  "lat": 11.4693,
+  "lon": 76.5898,
+  "duration_min": 120,
+  "fee_inr": 60,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Lake and cascades on the road to Mudumalai, with boating."
+ },
+ {
+  "id": "coorg-007",
+  "destination_id": "coorg",
+  "name": "Abbey Falls",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 12.454,
+  "lon": 75.731,
+  "duration_min": 75,
+  "fee_inr": 15,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Waterfall reached through a coffee-and-spice plantation path."
+ },
+ {
+  "id": "coorg-008",
+  "destination_id": "coorg",
+  "name": "Raja's Seat",
+  "tags": [
+   "nature",
+   "photography",
+   "relaxation"
+  ],
+  "lat": 12.4181,
+  "lon": 75.7343,
+  "duration_min": 60,
+  "fee_inr": 10,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 3,
+  "description": "Garden viewpoint popular for sunset over the valley."
+ },
+ {
+  "id": "coorg-009",
+  "destination_id": "coorg",
+  "name": "Madikeri Fort and Museum",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 12.425,
+  "lon": 75.738,
+  "duration_min": 75,
+  "fee_inr": 20,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Hill fort in the town centre with a small museum."
+ },
+ {
+  "id": "coorg-010",
+  "destination_id": "coorg",
+  "name": "Dubare Elephant Camp",
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "lat": 12.3745,
+  "lon": 75.913,
+  "duration_min": 150,
+  "fee_inr": 150,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "River-side elephant camp reached by a short boat crossing."
+ },
+ {
+  "id": "coorg-011",
+  "destination_id": "coorg",
+  "name": "Coffee plantation walk",
+  "tags": [
+   "nature",
+   "food",
+   "wellness"
+  ],
+  "lat": 12.4,
+  "lon": 75.75,
+  "duration_min": 120,
+  "fee_inr": 300,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Guided walk through a working coffee estate with tasting."
+ },
+ {
+  "id": "coorg-012",
+  "destination_id": "coorg",
+  "name": "Namdroling Monastery (Bylakuppe)",
+  "tags": [
+   "culture",
+   "photography"
+  ],
+  "lat": 12.435,
+  "lon": 76.29,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Large Tibetan Buddhist monastery complex."
+ },
+ {
+  "id": "coorg-013",
+  "destination_id": "coorg",
+  "name": "Talacauvery",
+  "tags": [
+   "nature",
+   "culture",
+   "mountains"
+  ],
+  "lat": 12.386,
+  "lon": 75.487,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Hilltop shrine at the traditional source of the Kaveri river."
+ },
+ {
+  "id": "munnar-014",
+  "destination_id": "munnar",
+  "name": "Eravikulam National Park",
+  "tags": [
+   "nature",
+   "mountains",
+   "adventure"
+  ],
+  "lat": 10.175,
+  "lon": 77.051,
+  "duration_min": 180,
+  "fee_inr": 200,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "High-range grassland park known for the Nilgiri tahr. Entry is quota-controlled."
+ },
+ {
+  "id": "munnar-015",
+  "destination_id": "munnar",
+  "name": "Mattupetty Dam",
+  "tags": [
+   "nature",
+   "photography",
+   "relaxation"
+  ],
+  "lat": 10.106,
+  "lon": 77.123,
+  "duration_min": 75,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Reservoir with boating and tea-estate views."
+ },
+ {
+  "id": "munnar-016",
+  "destination_id": "munnar",
+  "name": "Tea Museum",
+  "tags": [
+   "culture",
+   "food",
+   "historical"
+  ],
+  "lat": 10.085,
+  "lon": 77.063,
+  "duration_min": 60,
+  "fee_inr": 125,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Museum on the region's tea-planting history with factory demonstration."
+ },
+ {
+  "id": "munnar-017",
+  "destination_id": "munnar",
+  "name": "Top Station viewpoint",
+  "tags": [
+   "mountains",
+   "photography"
+  ],
+  "lat": 10.118,
+  "lon": 77.229,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Highest road-accessible viewpoint in the area."
+ },
+ {
+  "id": "munnar-018",
+  "destination_id": "munnar",
+  "name": "Attukal Waterfalls",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 10.076,
+  "lon": 77.017,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "Roadside waterfall amid tea estates."
+ },
+ {
+  "id": "munnar-019",
+  "destination_id": "munnar",
+  "name": "Echo Point",
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "lat": 10.109,
+  "lon": 77.158,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 1,
+  "description": "Lakeside viewpoint with a natural echo."
+ },
+ {
+  "id": "kodaikanal-020",
+  "destination_id": "kodaikanal",
+  "name": "Kodai Lake",
+  "tags": [
+   "nature",
+   "relaxation"
+  ],
+  "lat": 10.238,
+  "lon": 77.489,
+  "duration_min": 90,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 3,
+  "description": "Star-shaped lake at the heart of the town, with boating and a cycle path."
+ },
+ {
+  "id": "kodaikanal-021",
+  "destination_id": "kodaikanal",
+  "name": "Coaker's Walk",
+  "tags": [
+   "nature",
+   "photography",
+   "mountains"
+  ],
+  "lat": 10.233,
+  "lon": 77.495,
+  "duration_min": 60,
+  "fee_inr": 15,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Paved cliffside path with valley views."
+ },
+ {
+  "id": "kodaikanal-022",
+  "destination_id": "kodaikanal",
+  "name": "Pillar Rocks",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 10.207,
+  "lon": 77.471,
+  "duration_min": 60,
+  "fee_inr": 10,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Three granite pillars rising about 120 m."
+ },
+ {
+  "id": "kodaikanal-023",
+  "destination_id": "kodaikanal",
+  "name": "Bryant Park",
+  "tags": [
+   "nature",
+   "photography"
+  ],
+  "lat": 10.239,
+  "lon": 77.491,
+  "duration_min": 60,
+  "fee_inr": 30,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Botanical park with a flower show season."
+ },
+ {
+  "id": "kodaikanal-024",
+  "destination_id": "kodaikanal",
+  "name": "Guna Caves",
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "lat": 10.216,
+  "lon": 77.462,
+  "duration_min": 60,
+  "fee_inr": 10,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 1,
+  "description": "Rock cave formations among pine forest."
+ },
+ {
+  "id": "kodaikanal-025",
+  "destination_id": "kodaikanal",
+  "name": "Bear Shola Falls",
+  "tags": [
+   "nature"
+  ],
+  "lat": 10.238,
+  "lon": 77.475,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "Seasonal waterfall in forest near the town."
+ },
+ {
+  "id": "mysuru-026",
+  "destination_id": "mysuru",
+  "name": "Mysore Palace",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 12.3052,
+  "lon": 76.6552,
+  "duration_min": 120,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "The royal residence of the Wadiyar dynasty, illuminated on selected evenings."
+ },
+ {
+  "id": "mysuru-027",
+  "destination_id": "mysuru",
+  "name": "Chamundi Hill",
+  "tags": [
+   "culture",
+   "mountains",
+   "photography"
+  ],
+  "lat": 12.2724,
+  "lon": 76.67,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Hilltop temple above the city with views."
+ },
+ {
+  "id": "mysuru-028",
+  "destination_id": "mysuru",
+  "name": "Brindavan Gardens",
+  "tags": [
+   "nature",
+   "photography",
+   "relaxation"
+  ],
+  "lat": 12.421,
+  "lon": 76.572,
+  "duration_min": 120,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Terraced garden below the Krishnaraja Sagara dam."
+ },
+ {
+  "id": "mysuru-029",
+  "destination_id": "mysuru",
+  "name": "Mysore Zoo",
+  "tags": [
+   "nature",
+   "wildlife"
+  ],
+  "lat": 12.301,
+  "lon": 76.652,
+  "duration_min": 150,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "One of India's older zoological gardens."
+ },
+ {
+  "id": "mysuru-030",
+  "destination_id": "mysuru",
+  "name": "St. Philomena's Church",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 12.3135,
+  "lon": 76.6489,
+  "duration_min": 45,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "Neo-Gothic cathedral."
+ },
+ {
+  "id": "mysuru-031",
+  "destination_id": "mysuru",
+  "name": "Devaraja Market",
+  "tags": [
+   "shopping",
+   "food",
+   "culture"
+  ],
+  "lat": 12.3062,
+  "lon": 76.6521,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Historic market for flowers, spices, silk and sandalwood."
+ },
+ {
+  "id": "hampi-032",
+  "destination_id": "hampi",
+  "name": "Virupaksha Temple and Hampi Bazaar",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 15.335,
+  "lon": 76.46,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Living temple at the western end of the old bazaar street."
+ },
+ {
+  "id": "hampi-033",
+  "destination_id": "hampi",
+  "name": "Vittala Temple (Stone Chariot)",
+  "tags": [
+   "historical",
+   "photography",
+   "culture"
+  ],
+  "lat": 15.3434,
+  "lon": 76.4756,
+  "duration_min": 120,
+  "fee_inr": 40,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Temple complex famed for its stone chariot and musical pillars."
+ },
+ {
+  "id": "hampi-034",
+  "destination_id": "hampi",
+  "name": "Royal Enclosure and Lotus Mahal",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 15.32,
+  "lon": 76.475,
+  "duration_min": 120,
+  "fee_inr": 40,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 3,
+  "description": "Palace platforms, stepped tank and the Indo-Islamic Lotus Mahal."
+ },
+ {
+  "id": "hampi-035",
+  "destination_id": "hampi",
+  "name": "Hemakuta Hill sunset",
+  "tags": [
+   "photography",
+   "historical"
+  ],
+  "lat": 15.334,
+  "lon": 76.463,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Early temples on a hill overlooking the site."
+ },
+ {
+  "id": "hampi-036",
+  "destination_id": "hampi",
+  "name": "Matanga Hill climb",
+  "tags": [
+   "adventure",
+   "photography",
+   "nature"
+  ],
+  "lat": 15.333,
+  "lon": 76.468,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 3,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Steep climb to a panoramic viewpoint, popular at sunrise."
+ },
+ {
+  "id": "hampi-037",
+  "destination_id": "hampi",
+  "name": "Elephant Stables",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 15.317,
+  "lon": 76.477,
+  "duration_min": 45,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Domed stables for royal elephants."
+ },
+ {
+  "id": "goa-038",
+  "destination_id": "goa",
+  "name": "Baga Beach",
+  "tags": [
+   "beaches",
+   "adventure",
+   "food"
+  ],
+  "lat": 15.5553,
+  "lon": 73.7517,
+  "duration_min": 150,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Busy beach with water sports and shacks."
+ },
+ {
+  "id": "goa-039",
+  "destination_id": "goa",
+  "name": "Fort Aguada",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 15.4929,
+  "lon": 73.7737,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 3,
+  "description": "17th-century Portuguese fort and lighthouse above the sea."
+ },
+ {
+  "id": "goa-040",
+  "destination_id": "goa",
+  "name": "Basilica of Bom Jesus (Old Goa)",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 15.5009,
+  "lon": 73.9116,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "UNESCO-listed baroque church in Old Goa."
+ },
+ {
+  "id": "goa-041",
+  "destination_id": "goa",
+  "name": "Fontainhas Latin Quarter (Panaji)",
+  "tags": [
+   "culture",
+   "photography",
+   "food"
+  ],
+  "lat": 15.496,
+  "lon": 73.831,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Heritage neighbourhood of colourful Portuguese-era houses."
+ },
+ {
+  "id": "goa-042",
+  "destination_id": "goa",
+  "name": "Dudhsagar Falls",
+  "tags": [
+   "nature",
+   "adventure",
+   "photography"
+  ],
+  "lat": 15.3144,
+  "lon": 74.3143,
+  "duration_min": 300,
+  "fee_inr": 400,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Tiered waterfall on the Goa-Karnataka border; access is by jeep and seasonal."
+ },
+ {
+  "id": "goa-043",
+  "destination_id": "goa",
+  "name": "Palolem Beach (South Goa)",
+  "tags": [
+   "beaches",
+   "relaxation"
+  ],
+  "lat": 15.01,
+  "lon": 74.023,
+  "duration_min": 180,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Crescent beach with a calmer atmosphere."
+ },
+ {
+  "id": "goa-044",
+  "destination_id": "goa",
+  "name": "Anjuna and Vagator coast",
+  "tags": [
+   "beaches",
+   "shopping",
+   "photography"
+  ],
+  "lat": 15.5736,
+  "lon": 73.7413,
+  "duration_min": 150,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 1,
+  "description": "Cliff-backed beaches and markets."
+ },
+ {
+  "id": "pondicherry-045",
+  "destination_id": "pondicherry",
+  "name": "Promenade Beach",
+  "tags": [
+   "beaches",
+   "relaxation",
+   "photography"
+  ],
+  "lat": 11.933,
+  "lon": 79.833,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Seafront promenade for sunrise and evening walks."
+ },
+ {
+  "id": "pondicherry-046",
+  "destination_id": "pondicherry",
+  "name": "French Quarter (White Town)",
+  "tags": [
+   "historical",
+   "culture",
+   "photography",
+   "food"
+  ],
+  "lat": 11.935,
+  "lon": 79.83,
+  "duration_min": 150,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Grid of colonial villas, cafes and boutiques."
+ },
+ {
+  "id": "pondicherry-047",
+  "destination_id": "pondicherry",
+  "name": "Auroville and Matrimandir",
+  "tags": [
+   "culture",
+   "wellness"
+  ],
+  "lat": 12.0069,
+  "lon": 79.8106,
+  "duration_min": 150,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Experimental township; Matrimandir viewing requires advance arrangements."
+ },
+ {
+  "id": "pondicherry-048",
+  "destination_id": "pondicherry",
+  "name": "Sri Aurobindo Ashram",
+  "tags": [
+   "culture",
+   "wellness"
+  ],
+  "lat": 11.934,
+  "lon": 79.83,
+  "duration_min": 45,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Spiritual community centre in the old town."
+ },
+ {
+  "id": "pondicherry-049",
+  "destination_id": "pondicherry",
+  "name": "Basilica of the Sacred Heart",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 11.925,
+  "lon": 79.829,
+  "duration_min": 40,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "Gothic-style church."
+ },
+ {
+  "id": "pondicherry-050",
+  "destination_id": "pondicherry",
+  "name": "Paradise Beach (boat trip)",
+  "tags": [
+   "beaches",
+   "relaxation"
+  ],
+  "lat": 11.88,
+  "lon": 79.818,
+  "duration_min": 180,
+  "fee_inr": 250,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Boat access to a quiet beach south of the town."
+ },
+ {
+  "id": "jaipur-051",
+  "destination_id": "jaipur",
+  "name": "Amber Fort",
+  "tags": [
+   "historical",
+   "photography",
+   "culture"
+  ],
+  "lat": 26.9855,
+  "lon": 75.8513,
+  "duration_min": 150,
+  "fee_inr": 100,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Hilltop fort-palace with mirrored halls."
+ },
+ {
+  "id": "jaipur-052",
+  "destination_id": "jaipur",
+  "name": "City Palace",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 26.9255,
+  "lon": 75.8236,
+  "duration_min": 120,
+  "fee_inr": 200,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Royal complex with museums and courtyards."
+ },
+ {
+  "id": "jaipur-053",
+  "destination_id": "jaipur",
+  "name": "Hawa Mahal",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 26.9239,
+  "lon": 75.8267,
+  "duration_min": 45,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Five-storey facade of lattice windows."
+ },
+ {
+  "id": "jaipur-054",
+  "destination_id": "jaipur",
+  "name": "Jantar Mantar",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 26.9247,
+  "lon": 75.8246,
+  "duration_min": 60,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "18th-century astronomical instruments (UNESCO)."
+ },
+ {
+  "id": "jaipur-055",
+  "destination_id": "jaipur",
+  "name": "Nahargarh Fort sunset",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 26.9376,
+  "lon": 75.8155,
+  "duration_min": 90,
+  "fee_inr": 50,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Fort above the city with sunset views."
+ },
+ {
+  "id": "jaipur-056",
+  "destination_id": "jaipur",
+  "name": "Johari Bazaar",
+  "tags": [
+   "shopping",
+   "food",
+   "culture"
+  ],
+  "lat": 26.919,
+  "lon": 75.825,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Jewellery and textile bazaar."
+ },
+ {
+  "id": "udaipur-057",
+  "destination_id": "udaipur",
+  "name": "City Palace Udaipur",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 24.5764,
+  "lon": 73.6835,
+  "duration_min": 120,
+  "fee_inr": 300,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Palace complex on the shore of Lake Pichola."
+ },
+ {
+  "id": "udaipur-058",
+  "destination_id": "udaipur",
+  "name": "Lake Pichola boat ride",
+  "tags": [
+   "photography",
+   "relaxation"
+  ],
+  "lat": 24.572,
+  "lon": 73.679,
+  "duration_min": 60,
+  "fee_inr": 400,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 3,
+  "description": "Boat ride past island palaces at sunset."
+ },
+ {
+  "id": "udaipur-059",
+  "destination_id": "udaipur",
+  "name": "Saheliyon-ki-Bari",
+  "tags": [
+   "nature",
+   "historical"
+  ],
+  "lat": 24.599,
+  "lon": 73.689,
+  "duration_min": 60,
+  "fee_inr": 10,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Courtyard garden with fountains."
+ },
+ {
+  "id": "udaipur-060",
+  "destination_id": "udaipur",
+  "name": "Monsoon Palace (Sajjangarh)",
+  "tags": [
+   "historical",
+   "photography",
+   "nature"
+  ],
+  "lat": 24.595,
+  "lon": 73.635,
+  "duration_min": 90,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Hilltop palace with a wide valley view."
+ },
+ {
+  "id": "udaipur-061",
+  "destination_id": "udaipur",
+  "name": "Jagdish Temple",
+  "tags": [
+   "culture",
+   "historical"
+  ],
+  "lat": 24.5792,
+  "lon": 73.683,
+  "duration_min": 40,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Indo-Aryan temple near the City Palace."
+ },
+ {
+  "id": "udaipur-062",
+  "destination_id": "udaipur",
+  "name": "Bagore ki Haveli",
+  "tags": [
+   "culture",
+   "historical"
+  ],
+  "lat": 24.579,
+  "lon": 73.681,
+  "duration_min": 60,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Haveli museum and evening cultural show venue."
+ },
+ {
+  "id": "agra-063",
+  "destination_id": "agra",
+  "name": "Taj Mahal",
+  "tags": [
+   "historical",
+   "photography",
+   "culture"
+  ],
+  "lat": 27.1751,
+  "lon": 78.0421,
+  "duration_min": 180,
+  "fee_inr": 250,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "17th-century marble mausoleum (UNESCO). Closed on Fridays."
+ },
+ {
+  "id": "agra-064",
+  "destination_id": "agra",
+  "name": "Agra Fort",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 27.1795,
+  "lon": 78.0211,
+  "duration_min": 120,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 3,
+  "description": "Red-sandstone Mughal fortress (UNESCO)."
+ },
+ {
+  "id": "agra-065",
+  "destination_id": "agra",
+  "name": "Mehtab Bagh",
+  "tags": [
+   "photography",
+   "nature",
+   "relaxation"
+  ],
+  "lat": 27.179,
+  "lon": 78.044,
+  "duration_min": 60,
+  "fee_inr": 30,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Garden across the river facing the Taj Mahal."
+ },
+ {
+  "id": "agra-066",
+  "destination_id": "agra",
+  "name": "Itimad-ud-Daulah",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 27.193,
+  "lon": 78.03,
+  "duration_min": 60,
+  "fee_inr": 30,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Mughal marble tomb with fine inlay work."
+ },
+ {
+  "id": "agra-067",
+  "destination_id": "agra",
+  "name": "Fatehpur Sikri",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 27.094,
+  "lon": 77.661,
+  "duration_min": 180,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Abandoned Mughal capital (UNESCO) about 40 km from Agra."
+ },
+ {
+  "id": "agra-068",
+  "destination_id": "agra",
+  "name": "Kinari Bazaar and local food",
+  "tags": [
+   "shopping",
+   "food"
+  ],
+  "lat": 27.18,
+  "lon": 78.01,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 1,
+  "description": "Old city bazaar for petha sweets and crafts."
+ },
+ {
+  "id": "varanasi-069",
+  "destination_id": "varanasi",
+  "name": "Dashashwamedh Ghat evening aarti",
+  "tags": [
+   "culture",
+   "photography"
+  ],
+  "lat": 25.307,
+  "lon": 83.01,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 3,
+  "description": "Nightly riverside ritual."
+ },
+ {
+  "id": "varanasi-070",
+  "destination_id": "varanasi",
+  "name": "Sunrise boat ride on the Ganga",
+  "tags": [
+   "culture",
+   "photography",
+   "relaxation"
+  ],
+  "lat": 25.305,
+  "lon": 83.01,
+  "duration_min": 90,
+  "fee_inr": 300,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Row-boat along the ghats at dawn."
+ },
+ {
+  "id": "varanasi-071",
+  "destination_id": "varanasi",
+  "name": "Kashi Vishwanath Temple",
+  "tags": [
+   "culture",
+   "historical"
+  ],
+  "lat": 25.3109,
+  "lon": 83.0107,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Major Shiva temple; queues and security checks are common."
+ },
+ {
+  "id": "varanasi-072",
+  "destination_id": "varanasi",
+  "name": "Sarnath",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 25.3813,
+  "lon": 83.0226,
+  "duration_min": 150,
+  "fee_inr": 25,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 3,
+  "description": "Buddhist site where the Buddha gave his first sermon."
+ },
+ {
+  "id": "varanasi-073",
+  "destination_id": "varanasi",
+  "name": "Assi Ghat",
+  "tags": [
+   "culture",
+   "wellness",
+   "photography"
+  ],
+  "lat": 25.289,
+  "lon": 83.006,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Southern ghat with morning yoga and music."
+ },
+ {
+  "id": "varanasi-074",
+  "destination_id": "varanasi",
+  "name": "Ramnagar Fort",
+  "tags": [
+   "historical"
+  ],
+  "lat": 25.269,
+  "lon": 83.023,
+  "duration_min": 90,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "18th-century fort on the east bank."
+ },
+ {
+  "id": "rishikesh-075",
+  "destination_id": "rishikesh",
+  "name": "Ganga river rafting",
+  "tags": [
+   "adventure",
+   "nature"
+  ],
+  "lat": 30.15,
+  "lon": 78.35,
+  "duration_min": 240,
+  "fee_inr": 800,
+  "intensity": 3,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Guided white-water rafting; seasonal and subject to water levels."
+ },
+ {
+  "id": "rishikesh-076",
+  "destination_id": "rishikesh",
+  "name": "Laxman Jhula and Ram Jhula",
+  "tags": [
+   "culture",
+   "photography"
+  ],
+  "lat": 30.126,
+  "lon": 78.329,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Pedestrian suspension bridges over the Ganga."
+ },
+ {
+  "id": "rishikesh-077",
+  "destination_id": "rishikesh",
+  "name": "Triveni Ghat evening aarti",
+  "tags": [
+   "culture",
+   "photography"
+  ],
+  "lat": 30.1,
+  "lon": 78.298,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 3,
+  "description": "Riverside evening ceremony."
+ },
+ {
+  "id": "rishikesh-078",
+  "destination_id": "rishikesh",
+  "name": "Beatles Ashram (Chaurasi Kutia)",
+  "tags": [
+   "culture",
+   "historical",
+   "photography"
+  ],
+  "lat": 30.117,
+  "lon": 78.318,
+  "duration_min": 75,
+  "fee_inr": 150,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Ruined ashram within Rajaji National Park boundaries."
+ },
+ {
+  "id": "rishikesh-079",
+  "destination_id": "rishikesh",
+  "name": "Yoga session at an ashram",
+  "tags": [
+   "wellness",
+   "culture"
+  ],
+  "lat": 30.115,
+  "lon": 78.31,
+  "duration_min": 90,
+  "fee_inr": 300,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Drop-in yoga class."
+ },
+ {
+  "id": "rishikesh-080",
+  "destination_id": "rishikesh",
+  "name": "Waterfall trek (Neer Garh)",
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "lat": 30.131,
+  "lon": 78.326,
+  "duration_min": 120,
+  "fee_inr": 20,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Short walk to a series of pools and cascades."
+ },
+ {
+  "id": "manali-081",
+  "destination_id": "manali",
+  "name": "Solang Valley",
+  "tags": [
+   "adventure",
+   "mountains",
+   "photography"
+  ],
+  "lat": 32.316,
+  "lon": 77.156,
+  "duration_min": 240,
+  "fee_inr": 500,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Valley with seasonal snow activities and paragliding."
+ },
+ {
+  "id": "manali-082",
+  "destination_id": "manali",
+  "name": "Hadimba Devi Temple",
+  "tags": [
+   "culture",
+   "historical",
+   "photography"
+  ],
+  "lat": 32.248,
+  "lon": 77.18,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Wooden temple in a cedar forest."
+ },
+ {
+  "id": "manali-083",
+  "destination_id": "manali",
+  "name": "Old Manali cafes and bridge walk",
+  "tags": [
+   "food",
+   "culture",
+   "relaxation"
+  ],
+  "lat": 32.259,
+  "lon": 77.179,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Cafe-lined lanes across the Manalsu bridge."
+ },
+ {
+  "id": "manali-084",
+  "destination_id": "manali",
+  "name": "Vashisht hot springs and temple",
+  "tags": [
+   "wellness",
+   "culture"
+  ],
+  "lat": 32.264,
+  "lon": 77.19,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Village with hot-spring baths and old temples."
+ },
+ {
+  "id": "manali-085",
+  "destination_id": "manali",
+  "name": "Jogini Falls trek",
+  "tags": [
+   "nature",
+   "adventure"
+  ],
+  "lat": 32.279,
+  "lon": 77.182,
+  "duration_min": 150,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Forest trail to a waterfall."
+ },
+ {
+  "id": "manali-086",
+  "destination_id": "manali",
+  "name": "Rohtang Pass excursion",
+  "tags": [
+   "mountains",
+   "adventure",
+   "photography"
+  ],
+  "lat": 32.3716,
+  "lon": 77.2466,
+  "duration_min": 360,
+  "fee_inr": 800,
+  "intensity": 2,
+  "accessible": false,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "High pass; entry needs a permit and is weather- and season-dependent."
+ },
+ {
+  "id": "shimla-087",
+  "destination_id": "shimla",
+  "name": "The Ridge and Christ Church",
+  "tags": [
+   "historical",
+   "photography",
+   "culture"
+  ],
+  "lat": 31.1042,
+  "lon": 77.1734,
+  "duration_min": 75,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Open promenade with a landmark church."
+ },
+ {
+  "id": "shimla-088",
+  "destination_id": "shimla",
+  "name": "Mall Road",
+  "tags": [
+   "shopping",
+   "food"
+  ],
+  "lat": 31.104,
+  "lon": 77.17,
+  "duration_min": 120,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "evening",
+  "significance": 2,
+  "description": "Pedestrian shopping street with eateries."
+ },
+ {
+  "id": "shimla-089",
+  "destination_id": "shimla",
+  "name": "Jakhoo Temple",
+  "tags": [
+   "culture",
+   "mountains",
+   "nature"
+  ],
+  "lat": 31.101,
+  "lon": 77.185,
+  "duration_min": 90,
+  "fee_inr": 0,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Hilltop temple above the town."
+ },
+ {
+  "id": "shimla-090",
+  "destination_id": "shimla",
+  "name": "Kufri",
+  "tags": [
+   "nature",
+   "adventure",
+   "mountains"
+  ],
+  "lat": 31.097,
+  "lon": 77.267,
+  "duration_min": 180,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Nearby hill resort known for scenic walks and seasonal snow."
+ },
+ {
+  "id": "shimla-091",
+  "destination_id": "shimla",
+  "name": "Viceregal Lodge",
+  "tags": [
+   "historical",
+   "culture"
+  ],
+  "lat": 31.1,
+  "lon": 77.148,
+  "duration_min": 90,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Former British viceroy's residence set in gardens."
+ },
+ {
+  "id": "shimla-092",
+  "destination_id": "shimla",
+  "name": "Kalka-Shimla toy train",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 31.103,
+  "lon": 77.165,
+  "duration_min": 240,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Narrow-gauge heritage railway (UNESCO)."
+ },
+ {
+  "id": "darjeeling-093",
+  "destination_id": "darjeeling",
+  "name": "Tiger Hill sunrise",
+  "tags": [
+   "mountains",
+   "photography",
+   "nature"
+  ],
+  "lat": 27.0,
+  "lon": 88.274,
+  "duration_min": 150,
+  "fee_inr": 100,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Predawn drive to a viewpoint for sunrise over Kanchenjunga (weather dependent)."
+ },
+ {
+  "id": "darjeeling-094",
+  "destination_id": "darjeeling",
+  "name": "Darjeeling Himalayan Railway (toy train)",
+  "tags": [
+   "historical",
+   "culture",
+   "photography"
+  ],
+  "lat": 27.041,
+  "lon": 88.264,
+  "duration_min": 120,
+  "fee_inr": 1500,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 3,
+  "description": "Heritage narrow-gauge joy ride (UNESCO)."
+ },
+ {
+  "id": "darjeeling-095",
+  "destination_id": "darjeeling",
+  "name": "Batasia Loop",
+  "tags": [
+   "historical",
+   "photography"
+  ],
+  "lat": 27.012,
+  "lon": 88.254,
+  "duration_min": 45,
+  "fee_inr": 20,
+  "intensity": 1,
+  "accessible": true,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Spiral track with a memorial garden and views."
+ },
+ {
+  "id": "darjeeling-096",
+  "destination_id": "darjeeling",
+  "name": "Himalayan Mountaineering Institute and Zoo",
+  "tags": [
+   "mountains",
+   "nature",
+   "historical"
+  ],
+  "lat": 27.017,
+  "lon": 88.254,
+  "duration_min": 150,
+  "fee_inr": 100,
+  "intensity": 2,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 2,
+  "description": "Mountaineering museum and high-altitude zoo."
+ },
+ {
+  "id": "darjeeling-097",
+  "destination_id": "darjeeling",
+  "name": "Peace Pagoda",
+  "tags": [
+   "culture",
+   "photography"
+  ],
+  "lat": 27.018,
+  "lon": 88.267,
+  "duration_min": 60,
+  "fee_inr": 0,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "afternoon",
+  "significance": 1,
+  "description": "Hilltop Buddhist stupa."
+ },
+ {
+  "id": "darjeeling-098",
+  "destination_id": "darjeeling",
+  "name": "Happy Valley Tea Estate",
+  "tags": [
+   "nature",
+   "food",
+   "culture"
+  ],
+  "lat": 27.0535,
+  "lon": 88.269,
+  "duration_min": 75,
+  "fee_inr": 50,
+  "intensity": 1,
+  "accessible": null,
+  "best_slot": "morning",
+  "significance": 2,
+  "description": "Working tea estate with factory tour."
+ }
+]

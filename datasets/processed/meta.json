@@ -1,0 +1,38 @@
+{
+ "dataset": "TripWise AI sample dataset v1",
+ "is_sample": true,
+ "road_factor": 1.3,
+ "local_km_rate": 14.0,
+ "transport_model": {
+  "bus": {
+   "rate": 1.9,
+   "speed": 45,
+   "min_fare": 150,
+   "max_km": 1100,
+   "comfort": 2
+  },
+  "train": {
+   "rate": 1.1,
+   "speed": 55,
+   "min_fare": 180,
+   "max_km": 3000,
+   "comfort": 3
+  },
+  "car": {
+   "rate": 12.0,
+   "speed": 50,
+   "min_fare": 800,
+   "max_km": 800,
+   "comfort": 4
+  },
+  "flight": {
+   "base": 2600,
+   "rate": 2.2,
+   "speed": 650,
+   "overhead_h": 3.5,
+   "min_km": 400,
+   "comfort": 5
+  }
+ },
+ "disclaimer": "Illustrative sample data. Coordinates approximate; fees and prices are estimates; accommodation is fictional; transport figures come from a distance model."
+}

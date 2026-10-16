@@ -1,0 +1,619 @@
+[
+ {
+  "id": "ooty",
+  "name": "Ooty",
+  "state": "Tamil Nadu",
+  "region": "South",
+  "type": "hill station",
+  "climate": "cool",
+  "lat": 11.4102,
+  "lon": 76.695,
+  "best_seasons": [
+   "summer",
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 5,
+  "tags": [
+   "nature",
+   "mountains",
+   "photography",
+   "wellness"
+  ],
+  "accessibility": "moderate",
+  "airport": "Coimbatore (CJB)",
+  "airport_km": 90,
+  "railhead": "Mettupalayam",
+  "railhead_km": 45,
+  "price_index": 1.0,
+  "wiki": "Ooty",
+  "description": "A colonial-era hill station in the Nilgiris known for tea estates, gardens, a heritage mountain railway and cool weather.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 350.0,
+   "mid": 700.0,
+   "premium": 1500.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "coorg",
+  "name": "Coorg",
+  "state": "Karnataka",
+  "region": "South",
+  "type": "hill station",
+  "climate": "cool",
+  "lat": 12.4244,
+  "lon": 75.7382,
+  "best_seasons": [
+   "winter",
+   "post-monsoon",
+   "monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 5,
+  "tags": [
+   "nature",
+   "mountains",
+   "adventure",
+   "food",
+   "photography",
+   "wellness"
+  ],
+  "accessibility": "limited",
+  "airport": "Mangaluru (IXE)",
+  "airport_km": 135,
+  "railhead": "Mysuru",
+  "railhead_km": 120,
+  "price_index": 1.05,
+  "wiki": "Kodagu_district",
+  "description": "Coffee-plantation country in the Western Ghats with waterfalls, forest walks and a distinctive local cuisine.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 370.0,
+   "mid": 740.0,
+   "premium": 1580.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "munnar",
+  "name": "Munnar",
+  "state": "Kerala",
+  "region": "South",
+  "type": "hill station",
+  "climate": "cool",
+  "lat": 10.0889,
+  "lon": 77.0595,
+  "best_seasons": [
+   "winter",
+   "post-monsoon",
+   "monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 5,
+  "tags": [
+   "nature",
+   "mountains",
+   "photography",
+   "wellness",
+   "adventure"
+  ],
+  "accessibility": "moderate",
+  "airport": "Kochi (COK)",
+  "airport_km": 110,
+  "railhead": "Aluva / Ernakulam",
+  "railhead_km": 105,
+  "price_index": 1.1,
+  "wiki": "Munnar",
+  "description": "Rolling tea estates, shola forests and high-altitude viewpoints in the Western Ghats of Kerala.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 390.0,
+   "mid": 770.0,
+   "premium": 1650.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "kodaikanal",
+  "name": "Kodaikanal",
+  "state": "Tamil Nadu",
+  "region": "South",
+  "type": "hill station",
+  "climate": "cool",
+  "lat": 10.2381,
+  "lon": 77.4892,
+  "best_seasons": [
+   "summer",
+   "post-monsoon",
+   "winter"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "nature",
+   "mountains",
+   "photography",
+   "wellness"
+  ],
+  "accessibility": "moderate",
+  "airport": "Madurai (IXM)",
+  "airport_km": 120,
+  "railhead": "Kodai Road",
+  "railhead_km": 80,
+  "price_index": 0.95,
+  "wiki": "Kodaikanal",
+  "description": "A lake-centred hill station in the Palani Hills with cliffs, pine forests and misty viewpoints.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 330.0,
+   "mid": 660.0,
+   "premium": 1420.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "mysuru",
+  "name": "Mysuru",
+  "state": "Karnataka",
+  "region": "South",
+  "type": "heritage city",
+  "climate": "warm",
+  "lat": 12.2958,
+  "lon": 76.6394,
+  "best_seasons": [
+   "winter",
+   "post-monsoon",
+   "monsoon"
+  ],
+  "min_days": 1,
+  "max_days": 3,
+  "tags": [
+   "historical",
+   "culture",
+   "food",
+   "shopping",
+   "photography"
+  ],
+  "accessibility": "good",
+  "airport": "Mysuru (MYQ) / Bengaluru (BLR)",
+  "airport_km": 10,
+  "railhead": "Mysuru Jn",
+  "railhead_km": 3,
+  "price_index": 0.9,
+  "wiki": "Mysore",
+  "description": "A royal heritage city built around its illuminated palace, markets, silk and sandalwood crafts.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 320.0,
+   "mid": 630.0,
+   "premium": 1350.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "hampi",
+  "name": "Hampi",
+  "state": "Karnataka",
+  "region": "South",
+  "type": "heritage site",
+  "climate": "hot",
+  "lat": 15.335,
+  "lon": 76.46,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "historical",
+   "culture",
+   "photography",
+   "adventure"
+  ],
+  "accessibility": "limited",
+  "airport": "Vidyanagar (VDY)",
+  "airport_km": 35,
+  "railhead": "Hosapete",
+  "railhead_km": 13,
+  "price_index": 0.85,
+  "wiki": "Hampi",
+  "description": "The ruins of the Vijayanagara capital spread across a boulder-strewn landscape beside the Tungabhadra river.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 300.0,
+   "mid": 600.0,
+   "premium": 1280.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "goa",
+  "name": "Goa",
+  "state": "Goa",
+  "region": "West",
+  "type": "beach",
+  "climate": "warm",
+  "lat": 15.4909,
+  "lon": 73.8278,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 3,
+  "max_days": 7,
+  "tags": [
+   "beaches",
+   "food",
+   "culture",
+   "historical",
+   "shopping",
+   "adventure",
+   "wellness"
+  ],
+  "accessibility": "moderate",
+  "airport": "Goa Dabolim (GOI) / Mopa (GOX)",
+  "airport_km": 30,
+  "railhead": "Madgaon / Thivim",
+  "railhead_km": 25,
+  "price_index": 1.3,
+  "wiki": "Goa",
+  "description": "Coastal state blending Portuguese-era heritage, long beaches, seafood and a relaxed pace.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 460.0,
+   "mid": 910.0,
+   "premium": 1950.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "pondicherry",
+  "name": "Pondicherry",
+  "state": "Puducherry",
+  "region": "South",
+  "type": "coastal town",
+  "climate": "warm",
+  "lat": 11.9416,
+  "lon": 79.8083,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "culture",
+   "food",
+   "beaches",
+   "wellness",
+   "photography",
+   "historical"
+  ],
+  "accessibility": "good",
+  "airport": "Puducherry (PNY) / Chennai (MAA)",
+  "airport_km": 150,
+  "railhead": "Villupuram",
+  "railhead_km": 38,
+  "price_index": 1.1,
+  "wiki": "Pondicherry",
+  "description": "A former French colony with a walkable colonial quarter, seafront promenade, cafes and spiritual communities.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 390.0,
+   "mid": 770.0,
+   "premium": 1650.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "jaipur",
+  "name": "Jaipur",
+  "state": "Rajasthan",
+  "region": "North",
+  "type": "heritage city",
+  "climate": "hot",
+  "lat": 26.9124,
+  "lon": 75.7873,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "historical",
+   "culture",
+   "shopping",
+   "food",
+   "photography"
+  ],
+  "accessibility": "moderate",
+  "airport": "Jaipur (JAI)",
+  "airport_km": 12,
+  "railhead": "Jaipur Jn",
+  "railhead_km": 3,
+  "price_index": 1.0,
+  "wiki": "Jaipur",
+  "description": "The 'Pink City': hilltop forts, royal palaces, observatories and bustling bazaars.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 350.0,
+   "mid": 700.0,
+   "premium": 1500.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "udaipur",
+  "name": "Udaipur",
+  "state": "Rajasthan",
+  "region": "North",
+  "type": "heritage city",
+  "climate": "warm",
+  "lat": 24.5854,
+  "lon": 73.7125,
+  "best_seasons": [
+   "winter",
+   "post-monsoon",
+   "monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "historical",
+   "culture",
+   "photography",
+   "wellness",
+   "shopping"
+  ],
+  "accessibility": "moderate",
+  "airport": "Udaipur (UDR)",
+  "airport_km": 22,
+  "railhead": "Udaipur City",
+  "railhead_km": 3,
+  "price_index": 1.15,
+  "wiki": "Udaipur",
+  "description": "A lake-city of palaces and havelis in the Aravalli hills, known for sunset views over Lake Pichola.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 400.0,
+   "mid": 800.0,
+   "premium": 1720.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "agra",
+  "name": "Agra",
+  "state": "Uttar Pradesh",
+  "region": "North",
+  "type": "heritage city",
+  "climate": "hot",
+  "lat": 27.1767,
+  "lon": 78.0081,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 1,
+  "max_days": 3,
+  "tags": [
+   "historical",
+   "culture",
+   "photography",
+   "food",
+   "shopping"
+  ],
+  "accessibility": "good",
+  "airport": "Agra (AGR)",
+  "airport_km": 10,
+  "railhead": "Agra Cantt",
+  "railhead_km": 4,
+  "price_index": 0.9,
+  "wiki": "Agra",
+  "description": "Home to the Taj Mahal and a cluster of Mughal-era monuments along the Yamuna river.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 320.0,
+   "mid": 630.0,
+   "premium": 1350.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "varanasi",
+  "name": "Varanasi",
+  "state": "Uttar Pradesh",
+  "region": "North",
+  "type": "spiritual city",
+  "climate": "hot",
+  "lat": 25.3176,
+  "lon": 82.9739,
+  "best_seasons": [
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "culture",
+   "historical",
+   "photography",
+   "food",
+   "wellness"
+  ],
+  "accessibility": "limited",
+  "airport": "Varanasi (VNS)",
+  "airport_km": 25,
+  "railhead": "Varanasi Jn",
+  "railhead_km": 5,
+  "price_index": 0.85,
+  "wiki": "Varanasi",
+  "description": "One of the oldest living cities, centred on the ghats of the Ganga with daily rituals and narrow lanes.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 300.0,
+   "mid": 600.0,
+   "premium": 1280.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "rishikesh",
+  "name": "Rishikesh",
+  "state": "Uttarakhand",
+  "region": "North",
+  "type": "adventure & spiritual town",
+  "climate": "mild",
+  "lat": 30.0869,
+  "lon": 78.2676,
+  "best_seasons": [
+   "winter",
+   "post-monsoon",
+   "summer"
+  ],
+  "min_days": 2,
+  "max_days": 5,
+  "tags": [
+   "adventure",
+   "wellness",
+   "culture",
+   "nature",
+   "mountains"
+  ],
+  "accessibility": "limited",
+  "airport": "Dehradun (DED)",
+  "airport_km": 35,
+  "railhead": "Rishikesh / Haridwar",
+  "railhead_km": 25,
+  "price_index": 0.9,
+  "wiki": "Rishikesh",
+  "description": "Yoga and adventure town on the Ganga in the Himalayan foothills, known for rafting and riverside ashrams.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 320.0,
+   "mid": 630.0,
+   "premium": 1350.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "manali",
+  "name": "Manali",
+  "state": "Himachal Pradesh",
+  "region": "Himalaya",
+  "type": "mountain resort",
+  "climate": "cold",
+  "lat": 32.2396,
+  "lon": 77.1887,
+  "best_seasons": [
+   "summer",
+   "winter"
+  ],
+  "min_days": 3,
+  "max_days": 6,
+  "tags": [
+   "mountains",
+   "adventure",
+   "nature",
+   "photography"
+  ],
+  "accessibility": "limited",
+  "airport": "Kullu-Manali (KUU)",
+  "airport_km": 50,
+  "railhead": "Chandigarh / Joginder Nagar",
+  "railhead_km": 250,
+  "price_index": 1.1,
+  "wiki": "Manali,_Himachal_Pradesh",
+  "description": "An alpine valley town on the Beas river, gateway to snow-fields, passes and adventure sports.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 390.0,
+   "mid": 770.0,
+   "premium": 1650.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "shimla",
+  "name": "Shimla",
+  "state": "Himachal Pradesh",
+  "region": "Himalaya",
+  "type": "hill station",
+  "climate": "cold",
+  "lat": 31.1048,
+  "lon": 77.1734,
+  "best_seasons": [
+   "summer",
+   "winter",
+   "post-monsoon"
+  ],
+  "min_days": 2,
+  "max_days": 4,
+  "tags": [
+   "mountains",
+   "nature",
+   "historical",
+   "shopping",
+   "photography"
+  ],
+  "accessibility": "moderate",
+  "airport": "Shimla (SLV) / Chandigarh (IXC)",
+  "airport_km": 22,
+  "railhead": "Shimla (narrow gauge) / Kalka",
+  "railhead_km": 0,
+  "price_index": 1.05,
+  "wiki": "Shimla",
+  "description": "The former summer capital of British India: a ridge-top town of colonial architecture and pine forests.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 370.0,
+   "mid": 740.0,
+   "premium": 1580.0
+  },
+  "is_sample": true
+ },
+ {
+  "id": "darjeeling",
+  "name": "Darjeeling",
+  "state": "West Bengal",
+  "region": "East",
+  "type": "hill station",
+  "climate": "cool",
+  "lat": 27.041,
+  "lon": 88.2663,
+  "best_seasons": [
+   "post-monsoon",
+   "summer",
+   "winter"
+  ],
+  "min_days": 2,
+  "max_days": 5,
+  "tags": [
+   "mountains",
+   "nature",
+   "photography",
+   "food",
+   "wellness"
+  ],
+  "accessibility": "moderate",
+  "airport": "Bagdogra (IXB)",
+  "airport_km": 90,
+  "railhead": "New Jalpaiguri",
+  "railhead_km": 75,
+  "price_index": 1.0,
+  "wiki": "Darjeeling",
+  "description": "A tea-growing hill town with a heritage toy train and sunrise views of the Kanchenjunga range.",
+  "country": "India",
+  "food_per_person_day": {
+   "budget": 350.0,
+   "mid": 700.0,
+   "premium": 1500.0
+  },
+  "is_sample": true
+ }
+]

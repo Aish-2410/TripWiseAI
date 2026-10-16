@@ -1,0 +1,12 @@
+datasets/raw/Stravl_Travel_Preference_Data.csv
+backend/.venv/
+node_modules/
+*.db
+__pycache__/
+.pytest_cache/
+frontend/dist/
+.env
+.env.*
+!.env.example
+*.zip
+backend/app/data/*.joblib
